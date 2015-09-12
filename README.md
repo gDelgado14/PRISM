@@ -13,13 +13,16 @@ The following files contain finished examples of [PRISMResources](prismresources
 * Slide 30: **[Lists](PythonModule/names.py)**
 
 > In python there is another way to store multiple items - **[tuples](http://www.hacksparrow.com/python-difference-between-list-and-tuple.html)**
+
 * Slide 31 - 33: **[Conditionals](PythonModule/conditional.py)**
 
 > [More](http://www.tutorialspoint.com/python/python_if_else.htm) on conditionals + `elif` statement
+
 * Slide 34 - 37: **Loops** ([1st example](PythonModule/loops.py), [2nd example](PythonModule/whileLoop.py))
 * Slide 38 - 39: **[Importing](PythonModule/importing.py)** 
 
 > Slide 40 **[example](PythonModule/sphereVol.py)** import of `math` library
+
 * Slide 41 - 42: **[Functions](PythonModule/funcitons.py)**
 
 > [More](http://www.tutorialspoint.com/python/python_functions.htm) on functions
