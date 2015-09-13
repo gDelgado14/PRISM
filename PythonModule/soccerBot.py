@@ -33,10 +33,10 @@ top_posts = r_soccer.get_top_from_day()
 video_link = 'streamable.com'
 
 
-GMAIL_USERNAME = "wilf.the.programmer@gmail.com"
-GMAIL_PASSWORD = "Nivh?2KZ3g.b9dEZJ4i"
+GMAIL_USERNAME = [REDACTED]
+GMAIL_PASSWORD = [REDACTED]
 email_subject = "Your daily top soccer video"
-recipient = "delg4200@mylaurier.ca"
+recipient = [REDACTED]
 
 
 while True:
