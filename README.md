@@ -6,6 +6,12 @@
 
 - - - -
 
+###Slide Deck
+
+A read-only and up to date version of the slides I use can be seen [here](https://docs.google.com/presentation/d/1qNmWskKqUbr3gJeW0RaRH3fcFRg_0QzTru1wOcylnmg/edit?usp=sharing). 
+
+- - - -
+
 The following files contain finished examples of [PRISMResources](prismresources.ca)' inaugural introduction to Coding class using [Python](python.org).
 
 ###Exercises & Examples
@@ -23,7 +29,7 @@ The following files contain finished examples of [PRISMResources](prismresources
 
 > Slide 40 **[example](PythonModule/sphereVol.py)** import of `math` library
 
-* Slide 41 - 42: **[Functions](PythonModule/funcitons.py)**
+* Slide 41 - 42: **[Functions](PythonModule/functions.py)**
 
 > [More](http://www.tutorialspoint.com/python/python_functions.htm) on functions
 
