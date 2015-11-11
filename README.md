@@ -12,7 +12,7 @@ A read-only and up to date version of the slides I use can be seen [here](https:
 
 - - - -
 
-The following files contain finished examples of [PRISMResources](prismresources.ca)' inaugural introduction to Coding class using [Python](python.org).
+The following links contain finished examples of [PRISMResources](prismresources.ca)' inaugural introduction to Coding class using [Python](python.org) + links to additional resources.
 
 ###Exercises & Examples
 * Slide 15 - 21: **[First Program](PythonModule/first.py)**
